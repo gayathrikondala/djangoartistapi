@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 Setup and Installation
 1.	Clone the repository:
-git clone https://github.com/your-username/artist-api.git
+git clone https://github.com/gayathrikondala/djangoartistapi.git
 2.	Navigate to the project directory:
                	cd artist-api
 3.	Install dependencies:
